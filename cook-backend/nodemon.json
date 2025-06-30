@@ -1,0 +1,8 @@
+{
+  "watch": ["server.js", "routes/", "config/", "middleware/"],
+  "ext": "js,json",
+  "ignore": ["node_modules/", "*.test.js"],
+  "env": {
+    "NODE_ENV": "development"
+  }
+} 
